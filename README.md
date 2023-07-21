@@ -45,4 +45,4 @@ Use this script responsibly and at your own risk.
 
 If you encounter any issues or have suggestions for improvement, feel free to reach out or contribute to the project.
 
-Happy web scraping!
+
