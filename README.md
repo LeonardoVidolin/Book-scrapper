@@ -32,7 +32,7 @@ Note: Ensure that you have an internet connection while running the script, as i
 
 Output
 The CSV file "books_scraped.csv" will contain the following columns:
-
+ 
 Title: The title of the book.
 Category: The category or genre of the book.
 Rating: The star rating of the book.
