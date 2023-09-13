@@ -2,7 +2,7 @@
 
 README - Web Scraping Books from "books.toscrape.com" using Python
 This Python script allows you to scrape book data from the website "books.toscrape.com" using the BeautifulSoup library. The script extracts information such as book titles, categories, ratings, prices, and availability from multiple pages and saves the data into a CSV file.
-
+   
 Installation
 To run this script, make sure you have Python installed on your system. Additionally, install the required libraries using the following commands:
 
